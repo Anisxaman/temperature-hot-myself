@@ -1,6 +1,6 @@
 # temperature-hot-myself
 
-##Author:
+##Author
 [Anishuzzaman][author]
 
 [author]:[https://www.facebook.com/anishuzzaman/]
